@@ -1,12 +1,4 @@
-![images](https://github.com/user-attachments/assets/d048a3b3-1e6c-4424-8abd-796b7dc2d6cd)
-
-
-# ⚡ MegaETH Auto Bot by [Kazuha](https://github.com/Kazuha787) ⚡
-# ⚡ Telegram [CHANNEL](https://t.me/Offical_Im_kazuha)
-
-A spicy little automation tool for swapping, staking, minting, and other degen activities on the **MegaETH testnet** — powered by `Kazuha787` vibes and Gen Z ambition.
-
----
+GUNAKAN BIJAK KONTOL
 
 ## 🚀 Features
 - Automated token swaps & mints  
