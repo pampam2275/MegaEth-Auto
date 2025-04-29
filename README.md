@@ -13,8 +13,8 @@ GUA CUMA MODIF DIKIT DOANK YAK,KALO YANG PUNYA SC NYARI IZIN MIN
 
 1. Clone this sexy beast:
  ```bash
- git clone https://github.com/Kazuha787/MegaEth-Auto-Bot.git
- cd MegaEth-Auto-Bot
+ git clone https://github.com/pampam2275/MegaEth-Auto.git
+ cd MegaEth-Auto
    ```
 
 3. Install the Python dependencies:
