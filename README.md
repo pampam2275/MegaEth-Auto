@@ -1,4 +1,4 @@
-GUNAKAN BIJAK KONTOL
+GUA CUMA MODIF DIKIT DOANK YAK,KALO YANG PUNYA SC NYARI IZIN MIN
 
 ## 🚀 Features
 - Automated token swaps & mints  
